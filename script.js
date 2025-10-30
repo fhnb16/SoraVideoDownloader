@@ -6,6 +6,8 @@
 // @author       fhnb16
 // @match        https://sora.chatgpt.com/*
 // @grant        none
+// @updateURL      https://raw.githubusercontent.com/fhnb16/SoraVideoDownloader/refs/heads/master/script.js
+// @downloadURL    https://raw.githubusercontent.com/fhnb16/SoraVideoDownloader/refs/heads/master/script.js
 // ==/UserScript==
 
 (function () {
