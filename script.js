@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sora Video Downloader
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      0.1
 // @description  Добавляет кнопку скачивания поверх каждого видео на sora.chatgpt.com
 // @author       fhnb16
 // @match        https://sora.chatgpt.com/*
